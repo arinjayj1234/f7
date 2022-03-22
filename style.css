@@ -1,1 +1,5 @@
-
+canvas{
+    border: 1px;
+    border-style: groove;
+    border-radius: 2px;
+}
